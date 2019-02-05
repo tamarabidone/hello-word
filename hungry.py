@@ -4,4 +4,5 @@ if hu=="yes":
 	 print ("pizza")
 
 else:
-	Hprint("do your homework")
+	 thirsty=input("are u thirsty?)
+	 print("do your homework")
